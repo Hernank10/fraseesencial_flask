@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "La organización publica un estudio a los estudiantes.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: publica",
+      "QUÉ: un estudio",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 2,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "La organización escribe un análisis a los lectores.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: escribe",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 3,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "La empresa publica un informe a los lectores.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: publica",
+      "QUÉ: un informe",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 4,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "periodístico",
+    "frase_completa": "La empresa presenta una propuesta para los clientes.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: presenta",
+      "QUÉ: una propuesta",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 5,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "cotidiano",
+    "frase_completa": "El equipo propone una propuesta a la comunidad.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: propone",
+      "QUÉ: una propuesta",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 6,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "profesional",
+    "frase_completa": "El científico desarrolla una investigación para los clientes.",
+    "elementos": [
+      "QUIÉN: El científico",
+      "VERBO: desarrolla",
+      "QUÉ: una investigación",
+      "A QUIÉN: para los clientes",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 7,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "cotidiano",
+    "frase_completa": "La empresa presenta un artículo a la comunidad.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: presenta",
+      "QUÉ: un artículo",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 8,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "cotidiano",
+    "frase_completa": "El científico analiza un informe para los clientes.",
+    "elementos": [
+      "QUIÉN: El científico",
+      "VERBO: analiza",
+      "QUÉ: un informe",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 9,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "científico",
+    "frase_completa": "El equipo desarrolla un estudio a la comunidad.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: desarrolla",
+      "QUÉ: un estudio",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 10,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "periodístico",
+    "frase_completa": "El autor investiga una investigación a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: investiga",
+      "QUÉ: una investigación",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 11,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "académico",
+    "frase_completa": "El investigador investiga un artículo a la comunidad.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: investiga",
+      "QUÉ: un artículo",
+      "A QUIÉN: a la comunidad",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 12,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "científico",
+    "frase_completa": "El autor propone un informe a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: propone",
+      "QUÉ: un informe",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 13,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "periodístico",
+    "frase_completa": "El profesor analiza un artículo a la comunidad.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: analiza",
+      "QUÉ: un artículo",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 14,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "académico",
+    "frase_completa": "El autor desarrolla un análisis a los lectores.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: desarrolla",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 15,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "académico",
+    "frase_completa": "El científico estudia un estudio para los clientes.",
+    "elementos": [
+      "QUIÉN: El científico",
+      "VERBO: estudia",
+      "QUÉ: un estudio",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 16,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "cotidiano",
+    "frase_completa": "El autor investiga una investigación a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: investiga",
+      "QUÉ: una investigación",
+      "A QUIÉN: a los estudiantes",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 17,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "cotidiano",
+    "frase_completa": "El equipo publica un informe al público.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: publica",
+      "QUÉ: un informe",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 18,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "El investigador propone una investigación para los clientes.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: propone",
+      "QUÉ: una investigación",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 19,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "periodístico",
+    "frase_completa": "El profesor escribe un informe para los clientes.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: escribe",
+      "QUÉ: un informe",
+      "A QUIÉN: para los clientes",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 20,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "profesional",
+    "frase_completa": "El científico escribe un estudio a la comunidad.",
+    "elementos": [
+      "QUIÉN: El científico",
+      "VERBO: escribe",
+      "QUÉ: un estudio",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 21,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "periodístico",
+    "frase_completa": "La empresa escribe un análisis al público.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: escribe",
+      "QUÉ: un análisis",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 22,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "profesional",
+    "frase_completa": "El investigador estudia un informe al público.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: estudia",
+      "QUÉ: un informe",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 23,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "periodístico",
+    "frase_completa": "La empresa analiza un artículo para los clientes.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: analiza",
+      "QUÉ: un artículo",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 24,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "periodístico",
+    "frase_completa": "El profesor estudia un análisis a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: estudia",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 25,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "profesional",
+    "frase_completa": "La empresa describe una investigación a la comunidad.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: describe",
+      "QUÉ: una investigación",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 26,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "académico",
+    "frase_completa": "El equipo escribe un artículo a la comunidad.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: escribe",
+      "QUÉ: un artículo",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 27,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "literario",
+    "frase_completa": "El investigador analiza una investigación a la comunidad.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: analiza",
+      "QUÉ: una investigación",
+      "A QUIÉN: a la comunidad",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 28,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "científico",
+    "frase_completa": "El equipo explica un informe a los lectores.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: explica",
+      "QUÉ: un informe",
+      "A QUIÉN: a los lectores",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 29,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "cotidiano",
+    "frase_completa": "La empresa explica una investigación a los lectores.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: explica",
+      "QUÉ: una investigación",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 30,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "El equipo estudia una investigación al público.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: estudia",
+      "QUÉ: una investigación",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 31,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "académico",
+    "frase_completa": "La empresa describe una propuesta a la comunidad.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: describe",
+      "QUÉ: una propuesta",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 32,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "cotidiano",
+    "frase_completa": "La organización escribe un informe a los estudiantes.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: escribe",
+      "QUÉ: un informe",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 33,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "El autor investiga un análisis al público.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: investiga",
+      "QUÉ: un análisis",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 34,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "académico",
+    "frase_completa": "La organización desarrolla un estudio al público.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: desarrolla",
+      "QUÉ: un estudio",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 35,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "periodístico",
+    "frase_completa": "La organización explica un artículo para los clientes.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: explica",
+      "QUÉ: un artículo",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 36,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "cotidiano",
+    "frase_completa": "El autor escribe un análisis a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: escribe",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 37,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "La organización publica un informe para los clientes.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: publica",
+      "QUÉ: un informe",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 38,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "académico",
+    "frase_completa": "El profesor investiga un estudio al público.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: investiga",
+      "QUÉ: un estudio",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 39,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "científico",
+    "frase_completa": "El autor analiza un análisis a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: analiza",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los estudiantes",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 40,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "cotidiano",
+    "frase_completa": "El profesor presenta un análisis al público.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: presenta",
+      "QUÉ: un análisis",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 41,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "académico",
+    "frase_completa": "La empresa analiza un artículo a los lectores.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: analiza",
+      "QUÉ: un artículo",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 42,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "periodístico",
+    "frase_completa": "El profesor propone un estudio al público.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: propone",
+      "QUÉ: un estudio",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 43,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "literario",
+    "frase_completa": "La empresa explica un artículo a los estudiantes.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: explica",
+      "QUÉ: un artículo",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 44,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "profesional",
+    "frase_completa": "El investigador investiga una propuesta a la comunidad.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: investiga",
+      "QUÉ: una propuesta",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 45,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "profesional",
+    "frase_completa": "El equipo describe un análisis para los clientes.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: describe",
+      "QUÉ: un análisis",
+      "A QUIÉN: para los clientes",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 46,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "académico",
+    "frase_completa": "La organización estudia una propuesta para los clientes.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: estudia",
+      "QUÉ: una propuesta",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 47,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "académico",
+    "frase_completa": "El científico desarrolla una propuesta para los clientes.",
+    "elementos": [
+      "QUIÉN: El científico",
+      "VERBO: desarrolla",
+      "QUÉ: una propuesta",
+      "A QUIÉN: para los clientes",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 48,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "El autor describe un artículo a los lectores.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: describe",
+      "QUÉ: un artículo",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 49,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "periodístico",
+    "frase_completa": "El investigador desarrolla un análisis para los clientes.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: desarrolla",
+      "QUÉ: un análisis",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 50,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "literario",
+    "frase_completa": "El autor analiza un análisis a los lectores.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: analiza",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 51,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "El investigador desarrolla un informe para los clientes.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: desarrolla",
+      "QUÉ: un informe",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 52,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "cotidiano",
+    "frase_completa": "El autor desarrolla un artículo para los clientes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: desarrolla",
+      "QUÉ: un artículo",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 53,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "La empresa propone un informe al público.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: propone",
+      "QUÉ: un informe",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 54,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "académico",
+    "frase_completa": "La organización presenta un informe al público.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: presenta",
+      "QUÉ: un informe",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 55,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "académico",
+    "frase_completa": "El profesor publica un análisis a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: publica",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 56,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "periodístico",
+    "frase_completa": "El equipo propone una propuesta a los lectores.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: propone",
+      "QUÉ: una propuesta",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 57,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "La organización describe un informe a la comunidad.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: describe",
+      "QUÉ: un informe",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 58,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "profesional",
+    "frase_completa": "El autor estudia un artículo para los clientes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: estudia",
+      "QUÉ: un artículo",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 59,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "científico",
+    "frase_completa": "El equipo investiga un estudio al público.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: investiga",
+      "QUÉ: un estudio",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 60,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "El profesor desarrolla un informe a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: desarrolla",
+      "QUÉ: un informe",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 61,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "La empresa escribe una propuesta a la comunidad.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: escribe",
+      "QUÉ: una propuesta",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 62,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "cotidiano",
+    "frase_completa": "El autor explica un análisis a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: explica",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 63,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "literario",
+    "frase_completa": "La organización propone una investigación a los lectores.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: propone",
+      "QUÉ: una investigación",
+      "A QUIÉN: a los lectores",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 64,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "profesional",
+    "frase_completa": "El investigador propone un informe para los clientes.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: propone",
+      "QUÉ: un informe",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 65,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "periodístico",
+    "frase_completa": "El investigador describe un informe a la comunidad.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: describe",
+      "QUÉ: un informe",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 66,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "científico",
+    "frase_completa": "La organización presenta una propuesta al público.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: presenta",
+      "QUÉ: una propuesta",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 67,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "científico",
+    "frase_completa": "La organización investiga una investigación a los estudiantes.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: investiga",
+      "QUÉ: una investigación",
+      "A QUIÉN: a los estudiantes",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 68,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "El investigador investiga un análisis a los lectores.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: investiga",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 69,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "profesional",
+    "frase_completa": "La empresa presenta una propuesta para los clientes.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: presenta",
+      "QUÉ: una propuesta",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 70,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "La organización propone un análisis a los lectores.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: propone",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 71,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "periodístico",
+    "frase_completa": "El investigador desarrolla una propuesta para los clientes.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: desarrolla",
+      "QUÉ: una propuesta",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 72,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "científico",
+    "frase_completa": "El equipo describe una investigación a la comunidad.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: describe",
+      "QUÉ: una investigación",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 73,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "El profesor propone una propuesta al público.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: propone",
+      "QUÉ: una propuesta",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 74,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "cotidiano",
+    "frase_completa": "La empresa describe una propuesta para los clientes.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: describe",
+      "QUÉ: una propuesta",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 75,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "literario",
+    "frase_completa": "La empresa describe un estudio al público.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: describe",
+      "QUÉ: un estudio",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 76,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "cotidiano",
+    "frase_completa": "El autor explica un estudio a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: explica",
+      "QUÉ: un estudio",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 77,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "cotidiano",
+    "frase_completa": "El autor analiza un informe a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: analiza",
+      "QUÉ: un informe",
+      "A QUIÉN: a los estudiantes",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 78,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "cotidiano",
+    "frase_completa": "El equipo propone un análisis a la comunidad.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: propone",
+      "QUÉ: un análisis",
+      "A QUIÉN: a la comunidad",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 79,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "académico",
+    "frase_completa": "La empresa explica un estudio para los clientes.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: explica",
+      "QUÉ: un estudio",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 80,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "periodístico",
+    "frase_completa": "El profesor estudia un estudio para los clientes.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: estudia",
+      "QUÉ: un estudio",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 81,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "cotidiano",
+    "frase_completa": "El profesor presenta una propuesta al público.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: presenta",
+      "QUÉ: una propuesta",
+      "A QUIÉN: al público"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 82,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "El autor describe un artículo para los clientes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: describe",
+      "QUÉ: un artículo",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 83,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "académico",
+    "frase_completa": "El profesor estudia un artículo a la comunidad.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: estudia",
+      "QUÉ: un artículo",
+      "A QUIÉN: a la comunidad",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 84,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "periodístico",
+    "frase_completa": "El profesor describe una investigación a la comunidad.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: describe",
+      "QUÉ: una investigación",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 85,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "El equipo escribe un artículo para los clientes.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: escribe",
+      "QUÉ: un artículo",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 86,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "periodístico",
+    "frase_completa": "El científico propone un análisis a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El científico",
+      "VERBO: propone",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema periodístico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 87,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "cotidiano",
+    "frase_completa": "El investigador escribe un análisis a la comunidad.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: escribe",
+      "QUÉ: un análisis",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema cotidiano.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 88,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "científico",
+    "frase_completa": "El equipo publica un análisis a la comunidad.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: publica",
+      "QUÉ: un análisis",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 89,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "profesional",
+    "frase_completa": "El autor analiza un artículo para los clientes.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: analiza",
+      "QUÉ: un artículo",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema profesional.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 90,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "científico",
+    "frase_completa": "El profesor investiga un artículo a la comunidad.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: investiga",
+      "QUÉ: un artículo",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 91,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "académico",
+    "frase_completa": "La empresa desarrolla un análisis para los clientes.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: desarrolla",
+      "QUÉ: un análisis",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 92,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "científico",
+    "frase_completa": "El investigador explica un estudio a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El investigador",
+      "VERBO: explica",
+      "QUÉ: un estudio",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema científico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 93,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "académico",
+    "frase_completa": "El autor explica un análisis a los lectores.",
+    "elementos": [
+      "QUIÉN: El autor",
+      "VERBO: explica",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 94,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "El científico describe un análisis a los estudiantes.",
+    "elementos": [
+      "QUIÉN: El científico",
+      "VERBO: describe",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 95,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "La organización describe una propuesta a los estudiantes.",
+    "elementos": [
+      "QUIÉN: La organización",
+      "VERBO: describe",
+      "QUÉ: una propuesta",
+      "A QUIÉN: a los estudiantes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 96,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "La empresa publica un análisis a los lectores.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: publica",
+      "QUÉ: un análisis",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 97,
+    "tipo": "esencial",
+    "dificultad": "medio",
+    "tema": "literario",
+    "frase_completa": "El equipo analiza un artículo para los clientes.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: analiza",
+      "QUÉ: un artículo",
+      "A QUIÉN: para los clientes"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel medio sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 98,
+    "tipo": "accidental",
+    "dificultad": "difícil",
+    "tema": "literario",
+    "frase_completa": "La empresa propone una investigación al público.",
+    "elementos": [
+      "QUIÉN: La empresa",
+      "VERBO: propone",
+      "QUÉ: una investigación",
+      "A QUIÉN: al público",
+      "DÓNDE: en el laboratorio",
+      "CUÁNDO: el año pasado"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN",
+      "DÓNDE",
+      "CUÁNDO"
+    ],
+    "explicacion": "Ejercicio de práctica nivel difícil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 99,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "literario",
+    "frase_completa": "El profesor investiga una investigación a la comunidad.",
+    "elementos": [
+      "QUIÉN: El profesor",
+      "VERBO: investiga",
+      "QUÉ: una investigación",
+      "A QUIÉN: a la comunidad"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema literario.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  },
+  {
+    "id": 100,
+    "tipo": "esencial",
+    "dificultad": "fácil",
+    "tema": "académico",
+    "frase_completa": "El equipo escribe un informe a los lectores.",
+    "elementos": [
+      "QUIÉN: El equipo",
+      "VERBO: escribe",
+      "QUÉ: un informe",
+      "A QUIÉN: a los lectores"
+    ],
+    "orden_correcto": [
+      "QUIÉN",
+      "VERBO",
+      "QUÉ",
+      "A QUIÉN"
+    ],
+    "explicacion": "Ejercicio de práctica nivel fácil sobre tema académico.",
+    "pista": "Recuerda: primero el sujeto, luego el verbo, después el objeto directo."
+  }
+]

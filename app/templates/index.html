@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block title %}Inicio - Fraseesencial{% endblock %}
+
+{% block content %}
+<div class="row align-items-center min-vh-75">
+    <div class="col-lg-6">
+        <h1 class="display-4 fw-bold mb-4">Domina la estructura esencial del español</h1>
+        <p class="lead mb-4">Aprende a identificar QUIÉN + VERBO + QUÉ + A QUIÉN en cualquier texto.</p>
+        {% if not current_user.is_authenticated %}
+            <a href="/register" class="btn btn-primary btn-lg me-2">Comenzar ahora</a>
+            <a href="/login" class="btn btn-outline-primary btn-lg">Ya tengo cuenta</a>
+        {% else %}
+            <a href="/flashcards" class="btn btn-primary btn-lg">Practicar con Flashcards</a>
+        {% endif %}
+    </div>
+    <div class="col-lg-6">
+        <img src="https://via.placeholder.com/600x400" alt="Fraseesencial" class="img-fluid rounded">
+    </div>
+</div>
+
+<div class="row mt-5 pt-5">
+    <div class="col-md-4 mb-4">
+        <div class="card h-100 card-hover">
+            <div class="card-body text-center">
+                <i class="bi bi-collection-play display-1 text-primary"></i>
+                <h3>100+ Ejercicios</h3>
+                <p>Practica con flashcards de diferentes niveles</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-4">
+        <div class="card h-100 card-hover">
+            <div class="card-body text-center">
+                <i class="bi bi-pencil display-1 text-success"></i>
+                <h3>Crea tus ejemplos</h3>
+                <p>Personaliza tu aprendizaje</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-4">
+        <div class="card h-100 card-hover">
+            <div class="card-body text-center">
+                <i class="bi bi-bar-chart display-1 text-info"></i>
+                <h3>Sigue tu progreso</h3>
+                <p>Estadísticas detalladas</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
