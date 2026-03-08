@@ -1,0 +1,132 @@
+/* Estilos específicos para flashcards */
+
+/* Contenedor de flashcards */
+.flashcards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Tarjeta de flashcard */
+.flashcard-item {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    overflow: hidden;
+    transition: all 0.3s;
+}
+
+.flashcard-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+}
+
+.flashcard-item.completed {
+    border: 2px solid var(--success-color);
+}
+
+.flashcard-header {
+    padding: 15px;
+    background: linear-gradient(135deg, var(--primary-color) 0%, #224abe 100%);
+    color: white;
+}
+
+.flashcard-body {
+    padding: 15px;
+}
+
+/* Indicadores de dificultad */
+.difficulty-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.difficulty-facil {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.difficulty-medio {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.difficulty-dificil {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+/* Botón de ver respuesta */
+.btn-show-answer {
+    background-color: transparent;
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+    transition: all 0.3s;
+}
+
+.btn-show-answer:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+/* Progreso en flashcards */
+.flashcard-progress {
+    height: 5px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.flashcard-progress-bar {
+    height: 100%;
+    background-color: var(--success-color);
+    transition: width 0.3s;
+}
+
+/* Filtros de flashcards */
+.flashcard-filters {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.filter-group {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.filter-btn.active {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+/* Animaciones */
+@keyframes slideIn {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.flashcard-item {
+    animation: slideIn 0.5s ease-out;
+}
